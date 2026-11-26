@@ -57,12 +57,12 @@ Estudante de **Ciência da Computação** no **IFMG - Campus Formiga** e **desen
 ## 🎓 Projetos da faculdade
 
 - [EquipeRocket](https://github.com/tulio-ra/EquipeRocket) - projeto em equipe
-- [HotelManagerFrontEnd](https://github.com/reireymond/HotelManagerFrontEnd) - front-end de gerenciamento de hotel
+- [IFMG-HotelManagerFrontEnd](https://github.com/reireymond/IFMG-HotelManagerFrontEnd) - front-end de gerenciamento de hotel
 - [Shell - Interpretador de Comandos](https://github.com/sofialeall01/Shell-interpretador-de-comandos-)
 - [TP SO1 - Threads](https://github.com/FelipsCrl/tp_so1_threads)
 - [Trabalho Prático MatComp](https://github.com/PieroniDev/Trabalho-PraticoMatComp)
-- EventManager 🔒 - sistema de controle de eventos em C
-- Projeto Algoritmos II 🔒
+- IFMG-EventManager 🔒 - sistema de controle de eventos em C
+- IFMG-Algoritmos-II 🔒
 
 ---
 
