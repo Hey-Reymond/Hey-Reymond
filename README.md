@@ -40,15 +40,29 @@ Estudante de **Ciência da Computação** no **IFMG - Campus Formiga** e **desen
 
 ---
 
-## 📌 Projetos em destaque
+## 🛠️ Projetos pessoais
 
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [KTN-Office](https://github.com/reireymond/KTN-Office) | Escritório virtual da KTN | TypeScript |
 | [PetshopBichin](https://github.com/reireymond/PetshopBichin) | Sistema para petshop | Java |
 | [EssentialsPPack](https://github.com/reireymond/EssentialsPPack) | Pack de ferramentas essenciais para Windows | Shell |
-| [HotelManagerFrontEnd](https://github.com/reireymond/HotelManagerFrontEnd) | Front-end de gerenciamento de hotel | HTML |
-| [MatematicaDiscreta](https://github.com/reireymond/MatematicaDiscreta) | Trabalhos de Matemática Discreta | C |
+| [MatematicaDiscreta](https://github.com/reireymond/MatematicaDiscreta) | Projetos de Matemática Discreta | C |
+| [EngenhariaDeSoftware](https://github.com/reireymond/EngenhariaDeSoftware) | Projetos de Engenharia de Software | JavaScript |
+
+**🔒 Privados (em desenvolvimento):** Projeto Hospedagem SaaS (TypeScript) · EasyDelivery App (Kotlin) · KTN Tech (TypeScript) · OwlTuning (C++) · Real-ctOS (Java) · GamingPack (PowerShell)
+
+---
+
+## 🎓 Projetos da faculdade
+
+- [EquipeRocket](https://github.com/tulio-ra/EquipeRocket) - projeto em equipe
+- [HotelManagerFrontEnd](https://github.com/reireymond/HotelManagerFrontEnd) - front-end de gerenciamento de hotel
+- [Shell - Interpretador de Comandos](https://github.com/sofialeall01/Shell-interpretador-de-comandos-)
+- [TP SO1 - Threads](https://github.com/FelipsCrl/tp_so1_threads)
+- [Trabalho Prático MatComp](https://github.com/PieroniDev/Trabalho-PraticoMatComp)
+- EventManager 🔒 - sistema de controle de eventos em C
+- Projeto Algoritmos II 🔒
 
 ---
 
