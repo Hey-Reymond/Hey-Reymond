@@ -44,26 +44,26 @@ Estudante de **Ciência da Computação** no **IFMG - Campus Formiga** e **desen
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [KTN Office](https://github.com/reireymond/KTN-Office) | Escritório virtual da KTN | TypeScript |
-| [Essentials Pack](https://github.com/reireymond/EssentialsPPack) | Pack de ferramentas essenciais para Windows | Shell |
-| [Gaming Pack](https://github.com/reireymond/GamingPack) | Pack de otimização para jogos no Windows | PowerShell |
+| [KTN Office](https://github.com/reireymond/KTN-Office) | Escritório onde IAs (Claude, Gemini, Codex) trabalham juntas via servidor MCP | TypeScript |
+| [Essentials Pack](https://github.com/reireymond/EssentialsPPack) | Configura um ambiente completo de Dev, DevOps e Cibersegurança com um comando | PowerShell, Shell |
+| [Gaming Pack](https://github.com/reireymond/GamingPack) | Instala launchers, otimizações e runtimes de jogos no Windows com um comando | PowerShell |
 
 ---
 
 ## 🎓 Projetos da faculdade (IFMG)
 
-| Projeto | Stack |
-|---|---|
-| [IFMG-PetshopBichin](https://github.com/reireymond/IFMG-PetshopBichin) | Java |
-| [IFMG-SoftwareEngineering](https://github.com/reireymond/IFMG-SoftwareEngineering) | JavaScript |
-| [IFMG-DiscreteMath](https://github.com/reireymond/IFMG-DiscreteMath) | C |
-| [IFMG-Algorithms-II](https://github.com/reireymond/IFMG-Algorithms-II) | C |
-| [IFMG-EventManager](https://github.com/reireymond/IFMG-EventManager) | C |
-| [IFMG-HotelManagerFrontEnd](https://github.com/reireymond/IFMG-HotelManagerFrontEnd) | HTML, CSS, JS |
-| [EquipeRocket](https://github.com/tulio-ra/EquipeRocket) | Projeto em equipe |
-| [Shell Command Interpreter](https://github.com/sofialeall01/Shell-interpretador-de-comandos-) | C |
-| [OS Threads (TP SO1)](https://github.com/FelipsCrl/tp_so1_threads) | C |
-| [Computational Math (TP)](https://github.com/PieroniDev/Trabalho-PraticoMatComp) | — |
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [IFMG-EventManager](https://github.com/reireymond/IFMG-EventManager) | Sistema de gestão de uma produtora de eventos (MVC, XML, CSV) | C |
+| [IFMG-Algorithms-II](https://github.com/reireymond/IFMG-Algorithms-II) | Primeira versão da produtora de eventos | C |
+| [IFMG-PetshopBichin](https://github.com/reireymond/IFMG-PetshopBichin) | Sistema de petshop em camadas (POO) | Java |
+| [IFMG-HotelManagerFrontEnd](https://github.com/reireymond/IFMG-HotelManagerFrontEnd) | Front-end de reservas do Hotel Fênix | HTML, CSS, JS |
+| [IFMG-DiscreteMath](https://github.com/reireymond/IFMG-DiscreteMath) | Propriedades e fechos de relações binárias | C |
+| [IFMG-SoftwareEngineering](https://github.com/reireymond/IFMG-SoftwareEngineering) | Laboratório de Git e GitHub | JavaScript |
+| [EquipeRocket](https://github.com/tulio-ra/EquipeRocket) | Projeto em equipe | — |
+| [Shell Command Interpreter](https://github.com/sofialeall01/Shell-interpretador-de-comandos-) | Interpretador de comandos (Sistemas Operacionais) | C |
+| [OS Threads (TP SO1)](https://github.com/FelipsCrl/tp_so1_threads) | Sincronização com threads (Sistemas Operacionais) | C |
+| [Computational Math (TP)](https://github.com/PieroniDev/Trabalho-PraticoMatComp) | Trabalho prático de Matemática Computacional | — |
 
 ---
 
