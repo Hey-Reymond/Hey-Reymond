@@ -12,7 +12,7 @@ Estudante de **Ciência da Computação** no **IFMG - Campus Formiga** e **desen
 - 📍 Formiga, Minas Gerais
 - 🎓 Ciência da Computação - IFMG
 - 💼 Estagiário, desenvolvendo automações e sistemas
-- 🛠️ Criando SaaS, apps e ferramentas com a **KTN Tech**
+- 🛠️ Criando ferramentas e projetos com a **KTN**
 - 🔒 Interesse em **Cibersegurança** e **Bug Bounty**
 - 🇺🇸 Inglês avançado
 
@@ -44,25 +44,26 @@ Estudante de **Ciência da Computação** no **IFMG - Campus Formiga** e **desen
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [KTN-Office](https://github.com/reireymond/KTN-Office) | Escritório virtual da KTN | TypeScript |
-| [PetshopBichin](https://github.com/reireymond/PetshopBichin) | Sistema para petshop | Java |
-| [EssentialsPPack](https://github.com/reireymond/EssentialsPPack) | Pack de ferramentas essenciais para Windows | Shell |
-| [MatematicaDiscreta](https://github.com/reireymond/MatematicaDiscreta) | Projetos de Matemática Discreta | C |
-| [EngenhariaDeSoftware](https://github.com/reireymond/EngenhariaDeSoftware) | Projetos de Engenharia de Software | JavaScript |
-
-**🔒 Privados (em desenvolvimento):** Projeto Hospedagem SaaS (TypeScript) · EasyDelivery App (Kotlin) · KTN Tech (TypeScript) · OwlTuning (C++) · Real-ctOS (Java) · GamingPack (PowerShell)
+| [KTN Office](https://github.com/reireymond/KTN-Office) | Escritório virtual da KTN | TypeScript |
+| [Essentials Pack](https://github.com/reireymond/EssentialsPPack) | Pack de ferramentas essenciais para Windows | Shell |
+| [Gaming Pack](https://github.com/reireymond/GamingPack) | Pack de otimização para jogos no Windows | PowerShell |
 
 ---
 
-## 🎓 Projetos da faculdade
+## 🎓 Projetos da faculdade (IFMG)
 
-- [EquipeRocket](https://github.com/tulio-ra/EquipeRocket) - projeto em equipe
-- [IFMG-HotelManagerFrontEnd](https://github.com/reireymond/IFMG-HotelManagerFrontEnd) - front-end de gerenciamento de hotel
-- [Shell - Interpretador de Comandos](https://github.com/sofialeall01/Shell-interpretador-de-comandos-)
-- [TP SO1 - Threads](https://github.com/FelipsCrl/tp_so1_threads)
-- [Trabalho Prático MatComp](https://github.com/PieroniDev/Trabalho-PraticoMatComp)
-- IFMG-EventManager 🔒 - sistema de controle de eventos em C
-- IFMG-Algoritmos-II 🔒
+| Projeto | Stack |
+|---|---|
+| [IFMG-PetshopBichin](https://github.com/reireymond/IFMG-PetshopBichin) | Java |
+| [IFMG-SoftwareEngineering](https://github.com/reireymond/IFMG-SoftwareEngineering) | JavaScript |
+| [IFMG-DiscreteMath](https://github.com/reireymond/IFMG-DiscreteMath) | C |
+| [IFMG-Algorithms-II](https://github.com/reireymond/IFMG-Algorithms-II) | C |
+| [IFMG-EventManager](https://github.com/reireymond/IFMG-EventManager) | C |
+| [IFMG-HotelManagerFrontEnd](https://github.com/reireymond/IFMG-HotelManagerFrontEnd) | HTML, CSS, JS |
+| [EquipeRocket](https://github.com/tulio-ra/EquipeRocket) | Projeto em equipe |
+| [Shell Command Interpreter](https://github.com/sofialeall01/Shell-interpretador-de-comandos-) | C |
+| [OS Threads (TP SO1)](https://github.com/FelipsCrl/tp_so1_threads) | C |
+| [Computational Math (TP)](https://github.com/PieroniDev/Trabalho-PraticoMatComp) | — |
 
 ---
 
