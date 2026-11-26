@@ -44,9 +44,9 @@ Estudante de **Ciência da Computação** no **IFMG - Campus Formiga** e **desen
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [KTN Office](https://github.com/reireymond/KTN-Office) | Escritório onde IAs (Claude, Gemini, Codex) trabalham juntas via servidor MCP | TypeScript |
-| [Essentials Pack](https://github.com/reireymond/EssentialsPPack) | Configura um ambiente completo de Dev, DevOps e Cibersegurança com um comando | PowerShell, Shell |
-| [Gaming Pack](https://github.com/reireymond/GamingPack) | Instala launchers, otimizações e runtimes de jogos no Windows com um comando | PowerShell |
+| [KTN Office](https://github.com/Hey-Reymond/KTN-Office) | Escritório onde IAs (Claude, Gemini, Codex) trabalham juntas via servidor MCP | TypeScript |
+| [Essentials Pack](https://github.com/Hey-Reymond/EssentialsPPack) | Configura um ambiente completo de Dev, DevOps e Cibersegurança com um comando | PowerShell, Shell |
+| [Gaming Pack](https://github.com/Hey-Reymond/GamingPack) | Instala launchers, otimizações e runtimes de jogos no Windows com um comando | PowerShell |
 
 ---
 
@@ -54,12 +54,12 @@ Estudante de **Ciência da Computação** no **IFMG - Campus Formiga** e **desen
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [IFMG-EventManager](https://github.com/reireymond/IFMG-EventManager) | Sistema de gestão de uma produtora de eventos (MVC, XML, CSV) | C |
-| [IFMG-Algorithms-II](https://github.com/reireymond/IFMG-Algorithms-II) | Primeira versão da produtora de eventos | C |
-| [IFMG-PetshopBichin](https://github.com/reireymond/IFMG-PetshopBichin) | Sistema de petshop em camadas (POO) | Java |
-| [IFMG-HotelManagerFrontEnd](https://github.com/reireymond/IFMG-HotelManagerFrontEnd) | Front-end de reservas do Hotel Fênix | HTML, CSS, JS |
-| [IFMG-DiscreteMath](https://github.com/reireymond/IFMG-DiscreteMath) | Propriedades e fechos de relações binárias | C |
-| [IFMG-SoftwareEngineering](https://github.com/reireymond/IFMG-SoftwareEngineering) | Laboratório de Git e GitHub | JavaScript |
+| [IFMG-EventManager](https://github.com/Hey-Reymond/IFMG-EventManager) | Sistema de gestão de uma produtora de eventos (MVC, XML, CSV) | C |
+| [IFMG-Algorithms-II](https://github.com/Hey-Reymond/IFMG-Algorithms-II) | Primeira versão da produtora de eventos | C |
+| [IFMG-PetshopBichin](https://github.com/Hey-Reymond/IFMG-PetshopBichin) | Sistema de petshop em camadas (POO) | Java |
+| [IFMG-HotelManagerFrontEnd](https://github.com/Hey-Reymond/IFMG-HotelManagerFrontEnd) | Front-end de reservas do Hotel Fênix | HTML, CSS, JS |
+| [IFMG-DiscreteMath](https://github.com/Hey-Reymond/IFMG-DiscreteMath) | Propriedades e fechos de relações binárias | C |
+| [IFMG-SoftwareEngineering](https://github.com/Hey-Reymond/IFMG-SoftwareEngineering) | Laboratório de Git e GitHub | JavaScript |
 | [EquipeRocket](https://github.com/tulio-ra/EquipeRocket) | Projeto em equipe | — |
 | [Shell Command Interpreter](https://github.com/sofialeall01/Shell-interpretador-de-comandos-) | Interpretador de comandos (Sistemas Operacionais) | C |
 | [OS Threads (TP SO1)](https://github.com/FelipsCrl/tp_so1_threads) | Sincronização com threads (Sistemas Operacionais) | C |
@@ -77,6 +77,6 @@ Estudante de **Ciência da Computação** no **IFMG - Campus Formiga** e **desen
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reireymond&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reireymond&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hey-Reymond&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Reymond&layout=compact&langs_count=7&theme=dracula"/>
 </div>
